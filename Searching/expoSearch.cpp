@@ -4,15 +4,9 @@ using namespace std;
 int binarySearch(vector<int>v,int s,int e,int target){
     int mid=s+(e-s)/2;
     while(s<=e){
-        if(v[mid]==target){
-            return mid;
-        }
-        else if(v[mid]>target){
-            e=mid-1;
-        }
-        else{
-            s=mid+1;
-        }
+        if(v[mid]==target) return mid;
+        else if(v[mid]>target) e=mid-1;
+        else s=mid+1;
         mid=s+(e-s)/2;
     }
     return -1;
@@ -20,9 +14,7 @@ int binarySearch(vector<int>v,int s,int e,int target){
 int expoSearch(vector<int>v,int n,int target){
     if(v[0]==target) return 0;
     int i=1;
-    while(i<n && v[i]<=target){
-        i*=2;
-    }
+    while(i<n && v[i]<=target) i*=2;
     int ans=binarySearch(v,i>>1,min(i,n-1),target);
     return ans;
 }
