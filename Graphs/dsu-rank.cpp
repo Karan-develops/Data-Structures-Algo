@@ -27,7 +27,7 @@ class DSU{
             else if(rank[x_parent]<rank[y_parent]) parent[x_parent]=y_parent;
             // Increasing rank if both nodes have same rank
             else{
-                parent[y]=x_parent;
+                parent[y_parent]=x_parent;
                 rank[x_parent]++;
             }
         }
