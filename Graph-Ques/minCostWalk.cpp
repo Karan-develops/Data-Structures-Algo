@@ -1,4 +1,9 @@
-// LC - 3108 - HARD - Minimum Cost Walk in Weighted Graph
+// LC - 3108 - HARD - Minimum Cost Walk in Weighted 
+/* TIPS:
+1) Jitna zyada and(&) value choti hoti rhegi ya same rhegi, increase mhi hogi
+2) -1 se & krne se same value aati h
+Ex- (x & -1) => x
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
