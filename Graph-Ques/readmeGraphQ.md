@@ -1,6 +1,6 @@
 # Graph Questions 📈📈
 
-# DFS ( Depth First Search )
+## DFS ( Depth First Search )
 
 - LC - 1971 - Find if Path Exists in Graph
 - LC - 841 - Medium - Keys and Rooms
