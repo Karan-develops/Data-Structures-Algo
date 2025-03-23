@@ -15,22 +15,27 @@
 
 - LC - 3108 - HARD - Minimum Cost Walk in Weighted
 
-## Topological Sort
+## Topological Sort ✅
 
 - LC - 2115 - Medium - Find All Possible Recipes from Given Supplies
 
-## All Approaches
+## All Approaches 🚀
 
 - LC - 2685 - Medium - Count the Number of Complete Components
 
-## More
+## More ➕
 
 - LC - 947 - Medium - Most Stones Removed with Same Row or Column
+- LC - 797 - Medium - All Paths From Source to Target
 
-## Dijkstra's Algorithm
+## Dijkstra's Algorithm 🛣️
 
 - LC - 1976 - Medium - Number of Ways to Arrive at Destination
 
-## Bipartite
+## Bipartite 🔴
 
 - LC - 886 - Possible Bipartition
+
+## Tree-Based 🌴
+
+- LC - 834 - HARD -  Sum of Distances in Tree
