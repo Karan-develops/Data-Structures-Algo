@@ -22,6 +22,7 @@
 ## All Approaches 🚀
 
 - LC - 2685 - Medium - Count the Number of Complete Components
+- LC - 2503 - HARD - Maximum Number of Points From Grid Queries
 
 ## More ➕
 
