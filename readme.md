@@ -1,1 +1,1 @@
-# 🚀 DSA Codes Repository 🚀
+# 🚀 DSA Code Repository 🚀
