@@ -24,10 +24,10 @@ long long countSubarrays(vector<int>&nums,int k){
     return ans;
 }
 int main(){
-    // Output: 6
+    // Output:6
     vector<int>nums={1,3,2,3,3};
     int k=2;
-    // Output: 0
+    // Output:0
     vector<int>nums2={1,4,2,1};
     int k2=3;
     cout<<countSubarrays(nums,k)<<endl;
