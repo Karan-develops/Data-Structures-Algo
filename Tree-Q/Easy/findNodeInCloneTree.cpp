@@ -8,9 +8,9 @@ class Node{
     Node* left;
     Node* right;
 };
-class Solution {
-public:
-    Node* getTargetCopy(Node* original, Node* cloned, Node* target) {
+class BFS{
+    public:
+    Node* getTargetCopy(Node* original,Node* cloned,Node* target){
         int targetVal=target->data;
         queue<Node*>q;
         q.push(cloned);
@@ -25,6 +25,24 @@ public:
             if(currNode->right) q.push(currNode->right);
         }
         return NULL;
+    }
+};
+class DFS{
+    int targetVal;
+    Node* solve(Node* cloned){
+        if(!cloned) return cloned;
+
+        if(cloned->data==targetVal) return cloned;
+
+        Node* l=solve(cloned->left);
+        Node* r=solve(cloned->right);
+
+        return l?l:r;
+    }
+    public:
+    Node* getTargetCopy(Node* original,Node* cloned,Node* target){
+        targetVal=target->data;
+        return solve(cloned);
     }
 };
 /*
