@@ -10,6 +10,7 @@
 - LC - 433 - Medium - Minimum Genetic Mutation
 - LC - 1926 - Medium - Nearest Exit from Entrance in Maze
 - LC - 3203 - HARD - Find Minimum Diameter After Merging Two Trees
+- LC - 2359 - Medium - Find Closest Node to Given Two Nodes
 
 #### 3. DSU ( Disjoint Set Union ) 📐
 
@@ -44,3 +45,4 @@
 
 - LC - 834 - HARD -  Sum of Distances in Tree
 - LC - 3372 - Medium - Maximize the Number of Target Nodes After Connecting Trees I
+- LC - 3373 - HARD - Maximize the Number of Target Nodes After Connecting Trees II
