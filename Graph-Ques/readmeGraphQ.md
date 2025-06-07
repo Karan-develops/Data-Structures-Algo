@@ -4,6 +4,8 @@
 
 - LC - 1971 - Find if Path Exists in Graph
 - LC - 841 - Medium - Keys and Rooms
+- LC - 1443 - Medium - Minimum Time to Collect All Apples in a Tree
+- LC - 1519 - Medium - Number of Nodes in the Sub-Tree With the Same Label
 
 #### 2. BFS ( Breadth First Search) 🛳️
 
@@ -11,6 +13,7 @@
 - LC - 1926 - Medium - Nearest Exit from Entrance in Maze
 - LC - 3203 - HARD - Find Minimum Diameter After Merging Two Trees
 - LC - 2359 - Medium - Find Closest Node to Given Two Nodes
+- LC - 1298 - HARD - Maximum Candies You Can Get from Boxes
 
 #### 3. DSU ( Disjoint Set Union ) 📐
 
@@ -25,6 +28,8 @@
 
 - LC - 2685 - Medium - Count the Number of Complete Components
 - LC - 2503 - HARD - Maximum Number of Points From Grid Queries
+- LC - 1061 - Medium - Lexicographically Smallest Equivalent String
+- LC - 1376 - Medium - Time Needed to Inform All Employees
 
 #### 6. More ➕
 
