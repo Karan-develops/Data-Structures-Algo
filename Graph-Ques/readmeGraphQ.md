@@ -6,6 +6,7 @@
 - LC - 841 - Medium - Keys and Rooms
 - LC - 1443 - Medium - Minimum Time to Collect All Apples in a Tree
 - LC - 1519 - Medium - Number of Nodes in the Sub-Tree With the Same Label
+- LC - 1743 - Medium - Restore the Array From Adjacent Pairs
 
 #### 2. BFS ( Breadth First Search) 🛳️
 
