@@ -7,6 +7,8 @@
 - LC - 1443 - Medium - Minimum Time to Collect All Apples in a Tree
 - LC - 1519 - Medium - Number of Nodes in the Sub-Tree With the Same Label
 - LC - 1743 - Medium - Restore the Array From Adjacent Pairs
+- LC - 2596 - Medium - Check Knight Tour Configuration
+- LC - 2192 - Medium - All Ancestors of a Node in a Directed Acyclic Graph
 
 #### 2. BFS ( Breadth First Search) 🛳️
 
@@ -24,6 +26,7 @@
 
 - LC - 2115 - Medium - Find All Possible Recipes from Given Supplies
 - LC - 1857 - HARD - Largest Color Value in a Directed Graph
+- LC - 2192 - Medium - All Ancestors of a Node in a Directed Acyclic Graph
 
 #### 5. All Approaches 🚀
 
