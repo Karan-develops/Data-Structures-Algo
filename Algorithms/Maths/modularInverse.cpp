@@ -24,7 +24,7 @@ class FermatLittle{
     }
     public:
     int modularNCR(int n,int r){
-        if(r==0 || r>n) return 0;
+        if(r<0 || r>n) return 0;
 
         // Pre-Computing Factorial
         vector<long long>fact(n+1,1);
