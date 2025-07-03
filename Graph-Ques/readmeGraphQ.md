@@ -21,6 +21,7 @@
 #### 3. DSU ( Disjoint Set Union ) 📐
 
 - LC - 3108 - HARD - Minimum Cost Walk in Weighted
+- LC - 1361 - Medium - Validate Binary Tree Nodes
 
 #### 4. Topological Sort ✅
 
