@@ -10,13 +10,11 @@ vector<int> nextGreaterElements(vector<int>&nums){
 
     for(int i=2*n-1;i>=0;i--){
         int idx=i%n;
-        if(st.empty()) ans[idx]=-1;
-        else{
-            while(!st.empty() && st.top()<=nums[idx]){
-                st.pop();
-            }
-            st.empty()?ans[idx]=-1:ans[idx]=st.top();
+
+        while(!st.empty() && st.top()<=nums[idx]){
+            st.pop();
         }
+        ans[idx]=st.empty()?-1:st.top();
         st.push(nums[idx]);
     }
     return ans;
