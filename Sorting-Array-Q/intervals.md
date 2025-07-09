@@ -6,3 +6,4 @@
 - LC - 3169 -Medium - Count Days Without Meetings
 - LC - 435 - Medium - Non-overlapping Intervals
 - LC - 452 - Medium - Minimum Number of Arrows to Burst Balloons
+- LC - 1353 - Medium - Maximum Number of Events That Can Be Attended
