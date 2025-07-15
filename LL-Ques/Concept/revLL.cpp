@@ -1,5 +1,6 @@
 // LC - 206 - Easy - Reverse Linked List
-// Iterative - Recursive
+// 3 Approaches
+// Iterative - Two Recursive
 #include<iostream>
 using namespace std;
 class Node{
@@ -32,5 +33,20 @@ class LL{
             head=next;
         }
         return prev;
+    }
+};
+class LLRec{
+    public:
+    Node* revList(Node* head){
+        if(!head || !head->next){
+            return head;
+        }
+
+        Node* last=revList(head->next);
+
+        head->next->next=head;
+        head->next=NULL;
+
+        return last;
     }
 };
