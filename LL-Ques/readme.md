@@ -1,3 +1,8 @@
 1. Head pointer not given -- Just the node which has to be deleted
-node->data=node->next->data;
-node->next=node->next->next;
+- node->data=node->next->data;
+- node->next=node->next->next;
+
+---
+
+2. When we know the head of LL can change we use/create DummyNode.
+- Example : LC - 92. Reverse Linked List II
