@@ -56,3 +56,4 @@
 - LC - 834 - HARD -  Sum of Distances in Tree
 - LC - 3372 - Medium - Maximize the Number of Target Nodes After Connecting Trees I
 - LC - 3373 - HARD - Maximize the Number of Target Nodes After Connecting Trees II
+- LC - 2322 - HARD - Minimum Score After Removals on a Tree
