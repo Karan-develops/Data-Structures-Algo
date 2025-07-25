@@ -2,18 +2,21 @@
 // Acceptance Rate - 26%
 #include<iostream>
 #include<vector>
-#include<unordered_map>
+#include<unordered_set>
 using namespace std;
-int maxSum(vector<int>& nums) {
-    unordered_map<int,int>mp;
+int maxSum(vector<int>&nums){
     int ans=0;
     int mini=INT_MIN;
+
+    unordered_set<int>st;
+    
     for(int &i:nums){
-        if(i<=0) mini=max(mini,i);
         if(i>0){
-            if(mp.count(i)) continue;
-            mp[i]++;
+            if(st.count(i)) continue;
+            st.insert(i);
             ans+=i;
+        } else{
+            mini=max(mini,i);
         }
     }
     return ans==0?mini:ans;
