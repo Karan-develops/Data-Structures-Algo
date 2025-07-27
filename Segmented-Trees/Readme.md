@@ -21,6 +21,15 @@
 
 #### 2. `ith` node's Left Child is at `2i+1` & Right Child is at `2i+2`.
 
+#### 3. Size of Segment Tree `Array` should be `4*N`.
+
+---
+`Proof:`
+- `2*N` Leaf Nodes then next level from below will have `N`, then `N/2` ...
+- `2*N + N + N/2 + N/4` .....
+- `Sum of AP = a/(1-r) => (2*N)/(1-1/2) = 4*N`
+---
+
 > ## Building Segment Tree
 
 #### 1. Firstly find `mid` of `ith` node.
@@ -30,3 +39,9 @@
 #### 3. Recursively Call to make `subtrees` to make the whole Segment Tree.
 
 #### 4. Now see `intro.cpp`
+
+> ## Next Concepts
+
+#### 1. `update.cpp`
+
+#### 2. `rangeSumQuery.cpp`
