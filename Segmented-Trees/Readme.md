@@ -42,6 +42,39 @@
 
 > ## Next Concepts
 
-#### 1. `update.cpp`
-
-#### 2. `rangeSumQuery.cpp`
+<table id="exampleSeg" class="SectionTable display">
+	<thead>
+      <th>Sr.No</th>
+      <th>Concept</th>
+	</thead>
+	<tbody>
+		<tr>
+            <td>1.</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Segmented-Trees/update.cpp">Update Segment Tree
+				</a>
+			</td>
+		</tr>
+		<tr>
+            <td>2.</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Segmented-Trees/rangeSumQuery.cpp">Range Sum Query
+				</a>
+			</td>
+		</tr>
+		<tr>
+            <td>3.</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Segmented-Trees/lazyPropagation.cpp">Lazy Propagation
+				</a>
+			</td>
+		</tr>
+		<tr>
+            <td>4.</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Segmented-Trees/rmiq.cpp">RMIQ
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
