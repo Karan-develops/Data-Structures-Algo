@@ -1,4 +1,5 @@
 // LC - 258 - Easy - Add Digits
+// Follow Up - O(1) Time
 #include<iostream>
 using namespace std;
 int addDigits(int num){
@@ -12,6 +13,13 @@ int addDigits(int num){
         num/=10;
     }
     return addDigits(sum);
+}
+int followUp(int num){
+    if(num==0) return 0;
+
+    if(num%9==0) return 9;
+
+    return num%9;
 }
 int main(){
     // Output: 2
