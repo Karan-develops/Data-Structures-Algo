@@ -67,5 +67,17 @@
                 </a>
             </td>
 		</tr>
+		<tr>
+			<td>3479</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/tree/main/Segmented-Trees/Questions/fruitsIntoBaskets2-3.cpp">Medium - Fruits Into Baskets III
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/fruits-into-baskets-iii/description/">
+                    LeetCode
+                </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
