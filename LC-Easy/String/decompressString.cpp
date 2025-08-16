@@ -2,9 +2,10 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-vector<int> decompressRLElist(vector<int>& nums) {
+vector<int> decompressRLElist(vector<int>&nums){
     int n=nums.size();
     vector<int>ans;
+    
     for(int i=0;i<n;i+=2){
         int count=nums[i],num=nums[i+1];
         ans.insert(ans.end(),count,num);
