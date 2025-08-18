@@ -3,7 +3,7 @@
 #include<vector>
 #include<algorithm>
 using namespace std;
-vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+vector<bool> kidsWithCandies(vector<int>&candies,int extraCandies){
     int n=candies.size();
     vector<bool>ans;
     int max=*max_element(begin(candies),end(candies));
