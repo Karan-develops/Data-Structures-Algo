@@ -3,7 +3,7 @@
 #include<vector>
 #include<unordered_set>
 using namespace std;
-vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
+vector<vector<int>> findDifference(vector<int>&nums1,vector<int>&nums2){
     vector<vector<int>>ans(2);
     unordered_set<int>s1(begin(nums1),end(nums1));
     unordered_set<int>s2(begin(nums2),end(nums2));
