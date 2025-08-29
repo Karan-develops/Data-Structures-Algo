@@ -51,3 +51,48 @@ int main(){
     cout<<"Fibonacci(" << n << ") = "<<ans[0][0]<<endl;
     return 0;
 }
+
+// Question - GFG
+class Solution{
+    const int MOD=1e9+7;
+    typedef vector<vector<long long int>>Matrix;
+    public:
+    Matrix matrixMultiplication(Matrix &A,Matrix &B){
+        Matrix ans(2,vector<long long int>(2,0));
+        
+        for(int i=0;i<2;i++){
+            for(int j=0;j<2;j++){
+                for(int k=0;k<2;k++){
+                    ans[i][j]=(ans[i][j]+A[i][k]*B[k][j])%MOD;
+                }
+            }
+        }
+        return ans;
+    }
+    Matrix matrixExponentiation(Matrix &base,long long int exponent){
+        if(exponent==0){
+            Matrix identity(2,vector<long long int>(2,0));
+            
+            for(int i=0;i<2;i++){
+                identity[i][i]=1;
+            }
+            return identity;
+        }
+        
+        Matrix half=matrixExponentiation(base,exponent/2);
+        Matrix ans=matrixMultiplication(half,half);
+        
+        if(exponent&1) ans=matrixMultiplication(ans,base);
+        
+        return ans;
+    }
+    int FindNthTerm(long long int n){
+        if(n==0) return 0;
+        
+        Matrix T={{1,1},{1,0}};
+        
+        Matrix Tn=matrixExponentiation(T,n);
+        
+        return Tn[0][0];
+    }
+};
