@@ -6,7 +6,9 @@ using namespace std;
 int minimumOperations(vector<int>&nums){
     int n=nums.size();
     unordered_map<int,int>mp;
+
     int size_left=0;
+    
     for(int i=n-1;i>=0;i--){
         if(mp.count(nums[i])){
             size_left=i+1;
@@ -14,8 +16,10 @@ int minimumOperations(vector<int>&nums){
         }
         mp[nums[i]]++;
     }
+    
     int ans=size_left/3;
     if(size_left%3!=0) ans++;
+    
     return ans;
 }
 int main(){
