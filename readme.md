@@ -96,5 +96,13 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+            <td>Oops</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Oops/Readme.md">
+                    Readme Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
