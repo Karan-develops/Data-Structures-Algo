@@ -104,5 +104,13 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+            <td>Concurrency</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Concurrency/Readme.md">
+                    Readme Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
