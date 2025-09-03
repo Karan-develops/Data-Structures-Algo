@@ -276,3 +276,69 @@
 	</tbody>
 </table>
 
+> [!NOTE]
+> Sorting Algorithms
+
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Sr No.</th>
+      <th>Algorithm</th>
+      <th>Code Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>1.</td>
+            <td>Bubble Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Sorting/bubbleSort.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2.</td>
+            <td>Counting Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Sorting/countingSort.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3.</td>
+            <td>Insertion Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Sorting/insertionSort.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>4.</td>
+            <td>Merge Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Sorting/mergeSort.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>5.</td>
+            <td>Quick Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Sorting/quickSort.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>6.</td>
+            <td>Selection Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Sorting/selectionSort.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+	</tbody>
+</table>
