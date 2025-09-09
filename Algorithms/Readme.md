@@ -342,3 +342,25 @@
 		</tr>
 	</tbody>
 </table>
+
+> [!NOTE]
+> Linked List
+
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Sr No.</th>
+      <th>Algorithm</th>
+      <th>Code Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>1.</td>
+            <td>Merge Sort</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Linked-List/mergeSortLL.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+	</tbody>
+</table>
