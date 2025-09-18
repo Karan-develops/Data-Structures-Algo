@@ -68,6 +68,18 @@
             </td>
 		</tr>
 		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/goldMineProblem.cpp">Gold Mine Problem
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
+		<tr>
 			<td>3363</td>
     		<td>
 				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/maxFruitsCollected.cpp">HARD - Find the Maximum Number of Fruits Collected
