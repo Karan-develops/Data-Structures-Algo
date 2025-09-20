@@ -215,5 +215,57 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>2353</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designFoodRatingSystem.cpp">
+                    Medium - Design a Food Rating System
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-a-food-rating-system/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3408</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designTaskManager.cpp">
+                    Medium - Design Task Manager
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-task-manager/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3484</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designSpreadsheet.cpp">
+                    Medium - Design Spreadsheet
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-spreadsheet/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3508</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/implementRouter.cpp">
+                    Medium - Implement Router
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/implement-router/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
