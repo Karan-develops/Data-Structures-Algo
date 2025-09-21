@@ -267,5 +267,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>1912</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/Hard/designMovieRentalSystem.cpp">
+                    HARD - Design Movie Rental System
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-movie-rental-system/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
