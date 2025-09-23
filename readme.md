@@ -136,5 +136,13 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+            <td>Monotonic DS</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Monotonic-DS/Monotonic-Stack/Readme.md">
+                    Readme Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
