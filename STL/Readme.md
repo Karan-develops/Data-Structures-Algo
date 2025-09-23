@@ -14,5 +14,13 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>Emplace</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/STL/emplace.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
