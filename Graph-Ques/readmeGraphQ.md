@@ -1,59 +1,528 @@
-## 🚀 Graph Questions 📈📈
+### 🚀 Graph Questions 📈📈
 
-#### 1. DFS ( Depth First Search ) 😁
+> [!NOTE]
+> Easy 🐻
 
-- LC - 1971 - Find if Path Exists in Graph
-- LC - 841 - Medium - Keys and Rooms
-- LC - 1443 - Medium - Minimum Time to Collect All Apples in a Tree
-- LC - 1519 - Medium - Number of Nodes in the Sub-Tree With the Same Label
-- LC - 1743 - Medium - Restore the Array From Adjacent Pairs
-- LC - 2596 - Medium - Check Knight Tour Configuration
-- LC - 2192 - Medium - All Ancestors of a Node in a Directed Acyclic Graph
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>1557</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Easy/minVerticesToAllNodes.cpp">Easy - Minimum Number of Vertices to Reach All Nodes
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes//">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-#### 2. BFS ( Breadth First Search) 🛳️
 
-- LC - 433 - Medium - Minimum Genetic Mutation
-- LC - 1926 - Medium - Nearest Exit from Entrance in Maze
-- LC - 3203 - HARD - Find Minimum Diameter After Merging Two Trees
-- LC - 2359 - Medium - Find Closest Node to Given Two Nodes
-- LC - 1298 - HARD - Maximum Candies You Can Get from Boxes
+> [!NOTE]
+> DFS ( Depth First Search ) 😁
 
-#### 3. DSU ( Disjoint Set Union ) 📐
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>2192</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/allAncestors.cpp">Medium - All Ancestors of a Node in a Directed Acyclic Graph
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2596</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/knightTour.cpp">Medium - Check Knight Tour Configuration
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/check-knight-tour-configuration/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/countPaths.cpp">Count the paths
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/count-the-paths4332/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1971</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/findPath.cpp">Easy - Find if Path Exists in Graph
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>841</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/keyRooms.cpp">Medium - Keys and Rooms
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/keys-and-rooms/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1443</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/minTimeApples.cpp">Medium - Minimum Time to Collect All Apples in a Tree
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1743</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/restoreArray.cpp">Medium - Restore the Array From Adjacent Pairs
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1519</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/sameLabel.cpp">Medium - Number of Nodes in the Sub-Tree With the Same Label
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 3108 - HARD - Minimum Cost Walk in Weighted
-- LC - 1361 - Medium - Validate Binary Tree Nodes
+> [!NOTE]
+> BFS ( Breadth First Search) 🛳️
 
-#### 4. Topological Sort ✅
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>2359</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/closestNode.cpp">Medium - Find Closest Node to Given Two Nodes
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1926</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/nearestExit.cpp">Medium - Nearest Exit from Entrance in Maze
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>433</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/geneticMutation.cpp">Medium - Minimum Genetic Mutation
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-genetic-mutation/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3203</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/findDiameterTree.cpp">HARD - Find Minimum Diameter After Merging Two Trees
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1298</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/maxCandies.cpp">HARD - Maximum Candies You Can Get from Boxes
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 2115 - Medium - Find All Possible Recipes from Given Supplies
-- LC - 1857 - HARD - Largest Color Value in a Directed Graph
-- LC - 2192 - Medium - All Ancestors of a Node in a Directed Acyclic Graph
+> [!NOTE]
+> DSU ( Disjoint Set Union ) 📐
 
-#### 5. All Approaches 🚀
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>1361</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DSU/validateBTNodes.cpp">Medium - Validate Binary Tree Nodes
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/validate-binary-tree-nodes/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3108</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DSU/minCostWalk.cpp">HARD - Minimum Cost Walk in Weighted
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 2685 - Medium - Count the Number of Complete Components
-- LC - 2503 - HARD - Maximum Number of Points From Grid Queries
-- LC - 1061 - Medium - Lexicographically Smallest Equivalent String
-- LC - 1376 - Medium - Time Needed to Inform All Employees
+> [!NOTE]
+> Topological Sort ✅
 
-#### 6. More ➕
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>1857</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/TOPO/largestColorValue.cpp">HARD - Largest Color Value in a Directed Graph
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/largest-color-value-in-a-directed-graph/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2115</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/TOPO/recipeSupplies.cpp">Medium - Find All Possible Recipes from Given Supplies
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 947 - Medium - Most Stones Removed with Same Row or Column
-- LC - 797 - Medium - All Paths From Source to Target
+> [!NOTE]
+> All Approaches 🚀
 
-#### 7. Dijkstra's Algorithm 🛣️
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>2685</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/All/countCompleteConnected.cpp">Medium - Count the Number of Complete Components
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/count-the-number-of-complete-components/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2503</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/All/LC2503.cpp">HARD - Maximum Number of Points From Grid Queries
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1061</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/All/lexicoSmallestEq.cpp">Medium - Lexicographically Smallest Equivalent String
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1376</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/All/timeNeededEmployees.cpp">Medium - Time Needed to Inform All Employees
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/time-needed-to-inform-all-employees/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 1976 - Medium - Number of Ways to Arrive at Destination
-- LC - 3341 - Medium - Find Minimum Time to Reach Last Room I
-- LC - 3342 - Medium - Find Minimum Time to Reach Last Room II
+> [!NOTE]
+> More ➕
 
-#### 8. Bipartite 🔴
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>797</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/More/allPaths.cpp">Medium - All Paths From Source to Target
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/all-paths-from-source-to-target/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>947</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/More/removeStones.cpp">Medium - Most Stones Removed with Same Row or Column
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 886 - Possible Bipartition
+> [!NOTE]
+> Dijkstra's Algorithm 🛣️
 
-#### 9. Tree-Based 🌴
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>1976</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Dijkstra/waysToReachDest.cpp">Medium - Number of Ways to Arrive at Destination
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3341</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Dijkstra/reachLastRoom1.cpp">Medium - Find Minimum Time to Reach Last Room I
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3342</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Dijkstra/reachLastRoom2.cpp">Medium - Find Minimum Time to Reach Last Room II
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
 
-- LC - 834 - HARD -  Sum of Distances in Tree
-- LC - 3372 - Medium - Maximize the Number of Target Nodes After Connecting Trees I
-- LC - 3373 - HARD - Maximize the Number of Target Nodes After Connecting Trees II
-- LC - 2322 - HARD - Minimum Score After Removals on a Tree
+> [!NOTE]
+> Bipartite 🔴
+
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>886</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Bipartite/possibleBipartite.cpp">Medium - Possible Bipartition
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/possible-bipartition/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
+
+> [!NOTE]
+> Tree-Based 🌴
+
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>3372</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Tree-Based/maximizeTargetNodes1.cpp">Medium - Maximize the Number of Target Nodes After Connecting Trees I
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3373</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Tree-Based/maximizeTargetNodes2.cpp">HARD - Maximize the Number of Target Nodes After Connecting Trees II
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+        <tr>
+			<td>3203</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/findDiameterTree.cpp">HARD - Find Minimum Diameter After Merging Two Trees
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2322</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Tree-Based/scoreAfterRemovalsTree.cpp">HARD - Minimum Score After Removals on a Tree
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>834</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Tree-Based/sumDistances.cpp">HARD -  Sum of Distances in Tree
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/sum-of-distances-in-tree/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
