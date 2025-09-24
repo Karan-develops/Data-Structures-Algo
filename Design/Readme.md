@@ -280,5 +280,83 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>3092</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/mostFrequentIDs.cpp">
+                    Medium - Most Frequent IDs
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/most-frequent-ids/description/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1381</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designStackWithIncrementOperation.cpp">
+                    Medium - Design a Stack With Increment Operation
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-a-stack-with-increment-operation/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>355</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designTwitter.cpp">
+                    Medium - Design Twitter
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-twitter/description/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1656</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designOrderedStream.cpp">
+                    Easy - Design an Ordered Stream
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-an-ordered-stream/description/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2296</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designTextEditor.cpp">
+                    HARD - Design a Text Editor
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-a-text-editor/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>-</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designMinMaxQueue.cpp">
+                    Design MinMax Queue
+	            </a>
+            </td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/design-minmax-queue/1">
+                    GFG Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
