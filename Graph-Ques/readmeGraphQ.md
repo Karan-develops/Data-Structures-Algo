@@ -205,6 +205,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>1345</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/jumpGameIV.cpp">HARD - Jump Game IV
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/jump-game-iv/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
@@ -336,6 +348,18 @@
 			</td>
             <td>
                 <a href="https://leetcode.com/problems/time-needed-to-inform-all-employees/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1306</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/All/jumpGameIII.cpp">Medium - Jump Game III
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/jump-game-iii/">
                     LeetCode
 	            </a>
             </td>
