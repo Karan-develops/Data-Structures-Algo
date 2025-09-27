@@ -45,6 +45,18 @@
             </td>
 		</tr>
 		<tr>
+			<td>1268</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Trie/Questions/searchSuggestionsSystem.cpp">Medium - Search Suggestions System
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/search-suggestions-system/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
 			<td>-</td>
     		<td>
 				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Trie/Questions/longestString.cpp">Medium - Find the longest string
