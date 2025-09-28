@@ -19,5 +19,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>812</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Maths/Concept/largestTriangleArea.cpp">Easy - Largest Triangle Area
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/largest-triangle-area/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
