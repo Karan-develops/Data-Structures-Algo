@@ -82,6 +82,15 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>9.</td>
+            <td>Shoelace & Heron's Formula</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Algorithms/Maths/shoelace-heron.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
 
