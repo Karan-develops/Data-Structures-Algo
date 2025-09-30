@@ -54,5 +54,21 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+            <td>Smart Pointers</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Oops/Smart-Pointers/Readme.md">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
+            <td>Shared Pointers</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Oops/Smart-Pointers/sharedPtr.cpp">
+                    Code Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
