@@ -56,6 +56,42 @@
             </td>
 		</tr>
 		<tr>
+			<td>120</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/triangle.cpp">Medium - Triangle
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/triangle/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>931</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/minFallingPathSum.cpp">Medium - Minimum Falling Path Sum
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-falling-path-sum/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1289</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/minFallingPathSumII.cpp">HARD - Minimum Falling Path Sum II
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-falling-path-sum-ii/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
 			<td>-</td>
     		<td>
 				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/numericKeypad.cpp">Mobile numeric keypad
