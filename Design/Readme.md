@@ -358,5 +358,18 @@
 	            </a>
             </td>
 		</tr>
+        <tr>
+			<td>1268</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/searchSuggestionsSystem.cpp">
+                    Medium - Search Suggestions System
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/search-suggestions-system/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
