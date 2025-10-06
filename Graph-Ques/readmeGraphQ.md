@@ -550,3 +550,64 @@
 		</tr>
     </tbody>
 </table>
+
+> [!NOTE]
+> Grids 😎
+
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>417</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/pacificAtlanticWaterFlow.cpp">Medium - Pacific Atlantic Water Flow
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>778</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/swimRisingWater.cpp">HARD - Swim in Rising Water
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/swim-in-rising-water/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>2596</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/checkKnightTourConfiguration.cpp">Medium - Check Knight Tour Configuration
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/check-knight-tour-configuration/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/knightTourProblem.cpp">Medium - The Knight's tour problem
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/the-knights-tour-problem/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
