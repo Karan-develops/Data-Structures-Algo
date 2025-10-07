@@ -450,6 +450,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>778</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Dijkstra/swimRisingWater.cpp">HARD - Swim in Rising Water
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/swim-in-rising-water/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
