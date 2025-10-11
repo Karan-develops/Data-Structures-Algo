@@ -41,6 +41,14 @@
             </td>
 		</tr>
 		<tr>
+            <td>DP Questions</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/tree/main/DP-Ques">
+                    Readme Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
             <td>Prefix Sum + Hash Map Pattern</td>
             <td>
                 <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/PrefixSum-Map-Pattern/readme.md">
