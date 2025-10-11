@@ -19,5 +19,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>3186</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/1-D/maxTotalDamageSpellCasting.cpp">Medium - Maximum Total Damage With Spell Casting
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximum-total-damage-with-spell-casting/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
