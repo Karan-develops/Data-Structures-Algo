@@ -17,7 +17,19 @@
 				</a>
 			</td>
             <td>
-                <a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes//">
+                <a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>200</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Easy/numberOfIslands.cpp">Medium - Number of Islands
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/number-of-islands/description/">
                     LeetCode
 	            </a>
             </td>
@@ -483,6 +495,18 @@
 			</td>
             <td>
                 <a href="https://leetcode.com/problems/possible-bipartition/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3710</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Bipartite/maxPartitionFactor.cpp">HARD - Maximum Partition Factor
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximum-partition-factor/description/">
                     LeetCode
 	            </a>
             </td>
