@@ -371,5 +371,18 @@
 	            </a>
             </td>
 		</tr>
+        <tr>
+			<td>3709</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/designExamScoresTracker.cpp">
+                    Medium - Design Exam Scores Tracker
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/design-exam-scores-tracker/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
