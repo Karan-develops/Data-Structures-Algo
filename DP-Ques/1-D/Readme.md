@@ -31,5 +31,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>740</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/1-D/deleteEarn.cpp">Medium - Delete and Earn
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/delete-and-earn/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
