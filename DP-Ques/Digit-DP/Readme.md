@@ -19,5 +19,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>3003</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Digit-DP/maxNumberPartitionsAfterOperations.cpp">HARD - Maximize the Number of Partitions After Operations
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
