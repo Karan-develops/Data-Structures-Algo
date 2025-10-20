@@ -229,6 +229,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>625</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/lexicographicallySmallestStringAfterApplyingOperations.cpp">Medium - Lexicographically Smallest String After Applying Operations
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
