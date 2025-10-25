@@ -43,5 +43,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>2140</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/1-D/brainPower.cpp">Medium - Solving Questions With Brainpower
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/solving-questions-with-brainpower/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
