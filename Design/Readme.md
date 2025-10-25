@@ -384,5 +384,18 @@
 	            </a>
             </td>
 		</tr>
+        <tr>
+			<td>2043</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/simpleBankSystem.cpp">
+                    Medium - Simple Bank System
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/simple-bank-system/description/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
