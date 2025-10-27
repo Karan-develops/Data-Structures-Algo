@@ -19,5 +19,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>3725</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Maths/countWaysChooseToCoprimeIntegersRows.cpp">HARD - Count Ways to Choose Coprime Integers from Rows
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
