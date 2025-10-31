@@ -241,6 +241,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/graphDiameter.cpp">Medium - Graph Diameter
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/diameter-of-a-graph/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
@@ -654,6 +666,42 @@
             <td>
                 <a href="https://www.geeksforgeeks.org/problems/the-knights-tour-problem/1">
                     GFG
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/distanceNearestCellHaving1.cpp">Medium - Distance of nearest cell having 1
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>542</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/distanceNearestCellHaving1.cpp">Medium - 01 Matrix
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/01-matrix/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>1765</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Grids/mapHighestPeak.cpp">Medium - Map of Highest Peak
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/map-of-highest-peak/description/">
+                    LeetCode
 	            </a>
             </td>
 		</tr>
