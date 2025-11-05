@@ -144,6 +144,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>2257</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/countUnguardedCellsGrid.cpp">Medium - Count Unguarded Cells in the Grid
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
@@ -253,6 +265,30 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>207</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/courseSchedule.cpp">Medium - Course Schedule
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/course-schedule/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>210</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/BFS/courseScheduleII.cpp">Medium - Course Schedule II
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/course-schedule-ii/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
@@ -323,6 +359,30 @@
 			</td>
             <td>
                 <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/TOPO/maxDAGEdges.cpp">Medium - Max DAG Edges
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/max-dag-edges/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>802</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Concept/findEventualSafeStates.cpp">Medium - Find Eventual Safe States
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-eventual-safe-states/">
                     LeetCode
 	            </a>
             </td>
@@ -701,6 +761,31 @@
 			</td>
             <td>
                 <a href="https://leetcode.com/problems/map-of-highest-peak/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+    </tbody>
+</table>
+
+> [!NOTE]
+> Concept
+
+<table id="example" class="SectionTable display">
+    <thead>
+      <th>Problem No.</th>
+      <th>Problem Code</th>
+      <th>Problem Link</th>
+	</thead>
+    <tbody>
+		<tr>
+			<td>802</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/Concept/findEventualSafeStates.cpp">Medium - Find Eventual Safe States
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-eventual-safe-states/">
                     LeetCode
 	            </a>
             </td>
