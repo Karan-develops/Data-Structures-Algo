@@ -79,5 +79,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/1-D/waysToTileFloor.cpp">Medium - Ways To Tile A Floor
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
