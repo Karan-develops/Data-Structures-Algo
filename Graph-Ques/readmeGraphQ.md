@@ -326,6 +326,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>3607</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DSU/powerGridMaintenance.cpp">Medium - Power Grid Maintenance
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/power-grid-maintenance/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
