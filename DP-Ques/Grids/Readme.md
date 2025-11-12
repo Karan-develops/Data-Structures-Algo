@@ -116,6 +116,30 @@
             </td>
 		</tr>
 		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/numberPathsMatrixKCoins.cpp">Number of paths in a matrix with k coins
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/number-of-paths-in-a-matrix-with-k-coins2728/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
+		<tr>
+			<td>3742</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/maxPathScoreGrid.cpp">Medium - Maximum Path Score in a Grid
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximum-path-score-in-a-grid/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
+		<tr>
 			<td>3363</td>
     		<td>
 				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/maxFruitsCollected.cpp">HARD - Find the Maximum Number of Fruits Collected
