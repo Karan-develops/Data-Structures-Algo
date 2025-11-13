@@ -67,5 +67,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>-</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/String-DP/interleavedStrings.cpp">Medium - Interleaved Strings
+				</a>
+			</td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/problems/interleaved-strings/1">
+                    GFG
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
