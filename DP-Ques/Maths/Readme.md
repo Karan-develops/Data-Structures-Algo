@@ -31,5 +31,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>1262</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Maths/greatestSumDivisibleThree.cpp">Medium - Greatest Sum Divisible by Three
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/greatest-sum-divisible-by-three/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
