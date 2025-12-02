@@ -175,5 +175,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>2435</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Grids/pathsMatrixWhoseSumDivisibleK.cpp">HARD - Paths in Matrix Whose Sum Is Divisible by K
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
