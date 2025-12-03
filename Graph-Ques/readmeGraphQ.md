@@ -156,6 +156,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>2872</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/DFS/maxNumberK-DivisibleComponents.cpp">HARD - Maximum Number of K-Divisible Components
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
