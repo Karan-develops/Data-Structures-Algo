@@ -71,6 +71,14 @@
             </td>
 		</tr>
 		<tr>
+    		<td>Game</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Game/Readme.md">
+                    → Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
     		<td>Fractional KnapSack</td>
             <td>
                 <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Fractional-KnapSack/Readme.md">
