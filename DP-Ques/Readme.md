@@ -63,6 +63,14 @@
             </td>
 		</tr>
 		<tr>
+    		<td>Sliding Window DP</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Sliding-Window/Readme.md">
+                    → Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
     		<td>Jump Game</td>
             <td>
                 <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Jump-Game/Readme.md">
