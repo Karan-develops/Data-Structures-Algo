@@ -397,5 +397,18 @@
 	            </a>
             </td>
 		</tr>
+        <tr>
+			<td>3433</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Design/countMentionsPerUser.cpp">
+                    Medium - Count Mentions Per User
+	            </a>
+            </td>
+            <td>
+                <a href="https://leetcode.com/problems/count-mentions-per-user/description/">
+                    LeetCode Link
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
