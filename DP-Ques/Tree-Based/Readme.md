@@ -5,7 +5,6 @@
       <th>Problem No.</th>
       <th>Problem Code</th>
       <th>Problem Link</th>
-      <th>ChatGPT Link</th>
 	</thead>
     <tbody>
 		<tr>
@@ -19,9 +18,16 @@
                     GFG
 	            </a>
             </td>
+		</tr>
+		<tr>
+			<td>3562</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Tree-Based/maxProfitTradingStocksDiscounts.cpp">HARD - Maximum Profit from Trading Stocks with Discounts
+				</a>
+			</td>
             <td>
-                <a href="https://chatgpt.com/c/68ebfad6-1110-8323-b8f3-70b1cee5980a">
-                    ChatGPT
+                <a href="https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/">
+                    LeetCode
 	            </a>
             </td>
 		</tr>
