@@ -95,6 +95,14 @@
             </td>
 		</tr>
 		<tr>
+    		<td>Tree Based</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Tree-Based/Readme.md">
+                    → Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
     		<td>HARD Ques</td>
             <td>
                 <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Hard/Readme.md">
