@@ -43,7 +43,7 @@
 		<tr>
             <td>DP Questions</td>
             <td>
-                <a href="https://github.com/Karan-develops/Data-Structures-Algo/tree/main/DP-Ques">
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/tree/main/DP-Ques/Readme.md">
                     Readme Link
 	            </a>
             </td>
