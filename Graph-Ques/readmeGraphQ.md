@@ -484,6 +484,18 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>2092</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/Graph-Ques/All/findAllPeopleWithSecret.cpp">HARD - Find All People With Secret
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/find-all-people-with-secret/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
     </tbody>
 </table>
 
