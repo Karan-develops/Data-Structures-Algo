@@ -26,7 +26,7 @@ vector<int> countXInRange(vector<int>&arr,vector<vector<int>>&queries){
 
         auto &v=mp[x];
         int left=lower_bound(begin(v),end(v),l)-begin(v);
-        int right=upper_bound(begin(v),end(v), r) -begin(v);
+        int right=upper_bound(begin(v),end(v),r)-begin(v);
 
         ans.push_back(right-left);
     }
