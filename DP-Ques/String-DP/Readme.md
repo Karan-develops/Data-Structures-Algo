@@ -79,5 +79,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>960</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/String-DP/deleteColumnsMakeSortedIII.cpp">HARD - Delete Columns to Make Sorted III
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/delete-columns-to-make-sorted-iii/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
