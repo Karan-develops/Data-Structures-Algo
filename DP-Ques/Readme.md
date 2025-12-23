@@ -71,6 +71,14 @@
             </td>
 		</tr>
 		<tr>
+    		<td>Binary Search DP</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/BinarySearch/Readme.md">
+                    → Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
     		<td>Jump Game</td>
             <td>
                 <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Jump-Game/Readme.md">
