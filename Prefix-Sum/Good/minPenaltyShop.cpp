@@ -1,5 +1,5 @@
 // LC - 2483 - Medium - Minimum Penalty for a Shop
-// 3 Approaches
+// 4 Approaches
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -48,7 +48,7 @@ int bestClosingTimeBF(string customers){
     return minHour;
 }
 // Approach 2 - ACCEPTED
-int bestClosingTime(string customers){
+int bestClosingTimeVec(string customers){
     int n=customers.length();
     
     vector<int>prefixN(n+1,0);
@@ -87,7 +87,7 @@ int bestClosingTime(string customers){
     
     return minHour;
 }
-// Approach 3
+// Approach 3 - Two Pass
 int bestClosingTimeOP(string customers){
     int n=customers.length();
     
@@ -110,6 +110,23 @@ int bestClosingTimeOP(string customers){
     }
     
     return minHour;
+}
+// Approach 4 - One Pass
+int bestClosingTime(string customers){
+    int bestTime=0;
+    int minPenalty=0;
+    int prefix=0;
+    
+    for (int i=0;i<customers.length();i++){
+        prefix+=customers[i]=='Y'?-1:1;
+        
+        if(prefix<minPenalty){
+            bestTime=i+1;
+            minPenalty=prefix;
+        }
+    }
+    
+    return bestTime;
 }
 int main(){
     // Output: 2
