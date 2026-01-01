@@ -6,7 +6,7 @@ class Node{
     int data;
     Node* next;
 };
-class Solution {
+class Solution{
   public:
     Node* intersectPoint(Node* head1,Node* head2){
         Node* p1=head1;
