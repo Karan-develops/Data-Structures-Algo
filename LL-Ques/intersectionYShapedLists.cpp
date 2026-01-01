@@ -20,3 +20,10 @@ class Solution {
         return p1;
     }
 };
+/*
+Input: head1: 10 -> 15 -> 30, head2: 3 -> 6 -> 9 -> 15 -> 30
+Output: 15
+:----------------------:
+Input: head1: 4 -> 1 -> 8 -> 5, head2: 5 -> 6 -> 1 -> 8 -> 5
+Output: 1
+*/
