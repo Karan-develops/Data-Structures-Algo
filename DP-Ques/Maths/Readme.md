@@ -43,5 +43,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>1411</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Maths/numberWaysPaintN×3Grid.cpp">HARD - Number of Ways to Paint N × 3 Grid
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
