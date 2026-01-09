@@ -55,6 +55,14 @@
             </td>
 		</tr>
 		<tr>
+    		<td>LCS</td>
+            <td>
+                <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/LCS/Readme.md">
+                    → Link
+	            </a>
+            </td>
+		</tr>
+		<tr>
     		<td>Stocks</td>
             <td>
                 <a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/Stocks/Readme.md">
