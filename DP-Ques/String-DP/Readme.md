@@ -91,5 +91,17 @@
 	            </a>
             </td>
 		</tr>
+		<tr>
+			<td>712</td>
+    		<td>
+				<a href="https://github.com/Karan-develops/Data-Structures-Algo/blob/main/DP-Ques/String-DP/minASCIIDeleteSumTwoStrings.cpp">Medium - Minimum ASCII Delete Sum for Two Strings
+				</a>
+			</td>
+            <td>
+                <a href="https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/">
+                    LeetCode
+	            </a>
+            </td>
+		</tr>
 	</tbody>
 </table>
