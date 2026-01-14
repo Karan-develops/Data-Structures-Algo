@@ -5,7 +5,7 @@ using namespace std;
 class BinarySearch{
     public:
     double separateSquares(vector<vector<int>>&squares){
-
+        // TODO:
     }
 };
 int main(){
